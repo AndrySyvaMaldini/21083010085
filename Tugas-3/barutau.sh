@@ -1,1 +1,0 @@
-echo "Wah baru tauu!"
